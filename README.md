@@ -1,5 +1,8 @@
 # Prettier Zap
 
+[![Build Status](https://travis-ci.org/hadisinaee/pz.svg?branch=master)](https://travis-ci.org/hadisinaee/pz)
+[![Coverage Status](https://coveralls.io/repos/github/hadisinaee/pz/badge.svg?branch=master)](https://coveralls.io/github/hadisinaee/pz?branch=master)
+
 > in simple terms, it pretty prints zap logs and let you query them!
 
 ![Prettier Logo](./logo.png)
